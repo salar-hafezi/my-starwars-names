@@ -5,10 +5,6 @@ cache:
     - node_modules
 notifications:
   email: true
-node_js:
-  - iojs
-before_install:
-  - npm i -g npm
 before_script:
   - npm prune
 script:
