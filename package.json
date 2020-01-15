@@ -1,0 +1,24 @@
+{
+  "name": "my-starwars-names",
+  "version": "0.1.0",
+  "description": "Get random Star Wars names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salar-hafezi/my-starwars-names.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "Salar Hafezi <salar.hfz@gmail.com> (https://salar-hafezi.pro/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/salar-hafezi/my-starwars-names/issues"
+  },
+  "homepage": "https://github.com/salar-hafezi/my-starwars-names#readme"
+}
